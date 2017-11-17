@@ -1,0 +1,17 @@
+F:\VirileHRMS\VRMS\VRMS\bin\VRMS.dll.config
+F:\VirileHRMS\VRMS\VRMS\bin\VRMS.dll
+F:\VirileHRMS\VRMS\VRMS\bin\VRMS.pdb
+F:\VirileHRMS\VRMS\VRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VirileHRMS\VRMS\VRMS\bin\Newtonsoft.Json.dll
+F:\VirileHRMS\VRMS\VRMS\bin\System.Net.Http.Formatting.dll
+F:\VirileHRMS\VRMS\VRMS\bin\System.Web.Http.dll
+F:\VirileHRMS\VRMS\VRMS\bin\System.Web.Http.WebHost.dll
+F:\VirileHRMS\VRMS\VRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VirileHRMS\VRMS\VRMS\bin\Newtonsoft.Json.xml
+F:\VirileHRMS\VRMS\VRMS\bin\System.Net.Http.Formatting.xml
+F:\VirileHRMS\VRMS\VRMS\bin\System.Web.Http.xml
+F:\VirileHRMS\VRMS\VRMS\bin\System.Web.Http.WebHost.xml
+F:\VirileHRMS\VRMS\VRMS\obj\Debug\VRMS.csprojResolveAssemblyReference.cache
+F:\VirileHRMS\VRMS\VRMS\obj\Debug\VRMS.csproj.CoreCompileInputs.cache
+F:\VirileHRMS\VRMS\VRMS\obj\Debug\VRMS.dll
+F:\VirileHRMS\VRMS\VRMS\obj\Debug\VRMS.pdb
